@@ -1,0 +1,27 @@
+.container{
+   margin-bottom: 80px;
+}
+.background-bg{
+    background-image: url("images/bg-1.png");
+    background-position: bottom;
+    background-repeat: no-repeat;
+} 
+.carousel-item{
+    padding:20px 40px;
+}
+.title-center{
+    text-align: center;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow:5px 5px 10px hsl(26, 7%, 79%) ;
+}
+#product{
+    background-image: url(images/bg-2.png);
+    background-repeat: no-repeat;
+    background-position: initial;
+}
+.card p{
+    color: gray;
+}
